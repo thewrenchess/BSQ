@@ -10,7 +10,8 @@ BSQ	is a classic maximum empty rectangle algorithm program.
 - or `./bsq <filename>`
 
 ## Sample File
-`%>cat example_file
+```
+%>cat example_file
 9.ox
 ...........................
 ....o......................
@@ -31,7 +32,8 @@ BSQ	is a classic maximum empty rectangle algorithm program.
 .....xxxxxxx...............
 ......o..............o.....
 ..o.......o................
-%>`
+%>
+```
 
 ## Knownbugs
 - The map verifier does not return map error when there is only one parameter
