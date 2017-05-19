@@ -37,3 +37,7 @@ BSQ	is a classic maximum empty rectangle algorithm program.
 
 ## Knownbugs
 - The map verifier does not return map error when there is only one parameter
+
+## Author
+- Prateek Patil
+- Yangyang Herrera
